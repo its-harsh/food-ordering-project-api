@@ -1,0 +1,9 @@
+.idea
+venv
+
+*/migrations/*
+
+db.sqlite3
+production_secret.py
+
+!*/migrations/__init__.py
